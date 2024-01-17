@@ -1,0 +1,2 @@
+BarkVN/barkVN-convnext-pyramid-lv1.pth filter=lfs diff=lfs merge=lfs -text
+barkVN-convnext-pyramid-lv1.pth filter=lfs diff=lfs merge=lfs -text
